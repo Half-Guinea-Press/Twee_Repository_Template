@@ -1,13 +1,10 @@
 # Twee Repository Template
 
 ToDo:
-
-Rename Repository
-
-Rename .twee file
-
-Edit StoryData Passage to have unique UUID from list
-
-Edit StoryTitle Passage
-
-Edit build.yml workflow to make new .twee file name
+<ol>
+  <li>Rename Repository</li>
+  <li>Rename .twee file</li>
+  <li>Edit StoryData Passage to have unique UUID from list</li>
+  <li>Edit StoryTitle Passage</li>
+  <li>Edit build.yml workflow to make new .twee file name</li>
+</ol>
